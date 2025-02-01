@@ -1,7 +1,7 @@
 === Message Popup For Contact Form 7  ===
 Tags: contact form 7, Message Popup For Contact Form 7
 Requires at least: 5.5
-Tested up to: 6.6
+Tested up to: 6.7.1
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
